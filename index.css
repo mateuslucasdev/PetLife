@@ -61,8 +61,6 @@ h2 {
     /* vertical, horizontal */
     padding: 16px 32px;
     text-decoration: none;
-    margin-top: 0; /* Removendo a margem superior */
-    margin-bottom: 15px; /* Adicionando margem inferior */
 }
 
 .botao-transparente {
@@ -70,8 +68,6 @@ h2 {
     color: #FF725E;
     padding: 16px 32px;
     text-underline-offset: 4px;
-    margin-top: 0; /* Removendo a margem superior */
-    margin-bottom: 15px; /* Adicionando margem inferior */
     gap: 100px;
 }
 
